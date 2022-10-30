@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/th317erd/jibs-router.git"
   },
-  "keywords": [],
+  "keywords": [ "jibs", "react", "vue", "angular" ],
   "author": "Wyatt Greenway",
   "license": "MIT",
   "bugs": {
